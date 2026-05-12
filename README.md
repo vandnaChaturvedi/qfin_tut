@@ -1,6 +1,6 @@
 # Qiskit Finance Tutorial Environment Setup
 
-This guide sets up the `qfin`  for running all 12 qiskit-finance tutorials.
+This guide sets up the `qfin` enviornment and steps for running all 12 qiskit-finance tutorials.
 
 ---
 
